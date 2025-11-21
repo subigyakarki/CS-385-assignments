@@ -1,0 +1,17 @@
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\obj\Debug\net8.0-windows\BinaryApp.Form1.resources
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\obj\Debug\net8.0-windows\BinaryApp.csproj.GenerateResource.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\obj\Debug\net8.0-windows\BinaryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\obj\Debug\net8.0-windows\BinaryApp.AssemblyInfoInputs.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\obj\Debug\net8.0-windows\BinaryApp.AssemblyInfo.cs
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\obj\Debug\net8.0-windows\BinaryApp.csproj.CoreCompileInputs.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\bin\Debug\net8.0-windows\BinaryApp.exe
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\bin\Debug\net8.0-windows\BinaryApp.deps.json
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\bin\Debug\net8.0-windows\BinaryApp.runtimeconfig.json
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\bin\Debug\net8.0-windows\BinaryApp.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\bin\Debug\net8.0-windows\BinaryApp.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\obj\Debug\net8.0-windows\BinaryApp.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\obj\Debug\net8.0-windows\refint\BinaryApp.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\obj\Debug\net8.0-windows\BinaryApp.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\obj\Debug\net8.0-windows\BinaryApp.genruntimeconfig.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\obj\Debug\net8.0-windows\ref\BinaryApp.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\BinaryApp\obj\Debug\net8.0-windows\BinaryApp.Properties.Resources.resources

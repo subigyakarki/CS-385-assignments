@@ -1,0 +1,17 @@
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\bin\Debug\net8.0-windows\EmployeeApp.exe
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\bin\Debug\net8.0-windows\EmployeeApp.deps.json
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\bin\Debug\net8.0-windows\EmployeeApp.runtimeconfig.json
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\bin\Debug\net8.0-windows\EmployeeApp.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\bin\Debug\net8.0-windows\EmployeeApp.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\obj\Debug\net8.0-windows\EmployeeApp.csproj.GenerateResource.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\obj\Debug\net8.0-windows\EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\obj\Debug\net8.0-windows\EmployeeApp.AssemblyInfoInputs.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\obj\Debug\net8.0-windows\EmployeeApp.AssemblyInfo.cs
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\obj\Debug\net8.0-windows\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\obj\Debug\net8.0-windows\EmployeeApp.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\obj\Debug\net8.0-windows\refint\EmployeeApp.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\obj\Debug\net8.0-windows\EmployeeApp.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\obj\Debug\net8.0-windows\EmployeeApp.genruntimeconfig.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\obj\Debug\net8.0-windows\ref\EmployeeApp.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\obj\Debug\net8.0-windows\EmployeeApp.EmployeePayroll.resources
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\Assignment3\EmployeeApp\obj\Debug\net8.0-windows\EmployeeApp.Properties.Resources.resources

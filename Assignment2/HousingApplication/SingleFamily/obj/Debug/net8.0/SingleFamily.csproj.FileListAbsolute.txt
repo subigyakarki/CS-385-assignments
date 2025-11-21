@@ -1,0 +1,15 @@
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\bin\Debug\net8.0\SingleFamily.deps.json
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\bin\Debug\net8.0\SingleFamily.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\bin\Debug\net8.0\SingleFamily.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\bin\Debug\net8.0\Housing.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\bin\Debug\net8.0\Housing.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\obj\Debug\net8.0\SingleFamily.csproj.AssemblyReference.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\obj\Debug\net8.0\SingleFamily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\obj\Debug\net8.0\SingleFamily.AssemblyInfoInputs.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\obj\Debug\net8.0\SingleFamily.AssemblyInfo.cs
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\obj\Debug\net8.0\SingleFamily.csproj.CoreCompileInputs.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\obj\Debug\net8.0\SingleFa.8C530DD8.Up2Date
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\obj\Debug\net8.0\SingleFamily.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\obj\Debug\net8.0\refint\SingleFamily.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\obj\Debug\net8.0\SingleFamily.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\SingleFamily\obj\Debug\net8.0\ref\SingleFamily.dll

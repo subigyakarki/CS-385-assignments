@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11BC2B33-AC64-46AD-83BC-2B5D26208FA4}|PresentationGUI\\PresentationGUI.csproj|C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\presentationgui\\presentationgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11BC2B33-AC64-46AD-83BC-2B5D26208FA4}|PresentationGUI\\PresentationGUI.csproj|solutionrelative:presentationgui\\presentationgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BC2B33-AC64-46AD-83BC-2B5D26208FA4}|PresentationGUI\\PresentationGUI.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\readingmaterialapp\\presentationgui\\presentationgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BC2B33-AC64-46AD-83BC-2B5D26208FA4}|PresentationGUI\\PresentationGUI.csproj|solutionrelative:presentationgui\\presentationgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BC2B33-AC64-46AD-83BC-2B5D26208FA4}|PresentationGUI\\PresentationGUI.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\readingmaterialapp\\presentationgui\\presentationgui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11BC2B33-AC64-46AD-83BC-2B5D26208FA4}|PresentationGUI\\PresentationGUI.csproj|solutionrelative:presentationgui\\presentationgui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134981A6-BDA8-F667-F4AF-1FED191F983A}|ReadingMaterial\\ReadingMaterial.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\readingmaterialapp\\readingmaterial\\readingmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134981A6-BDA8-F667-F4AF-1FED191F983A}|ReadingMaterial\\ReadingMaterial.csproj|solutionrelative:readingmaterial\\readingmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BDA084-8E0D-2B24-4756-DBF69A0B0861}|Magazine\\Magazine.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\readingmaterialapp\\magazine\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BDA084-8E0D-2B24-4756-DBF69A0B0861}|Magazine\\Magazine.csproj|solutionrelative:magazine\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BC2B33-AC64-46AD-83BC-2B5D26208FA4}|PresentationGUI\\PresentationGUI.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\readingmaterialapp\\presentationgui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BC2B33-AC64-46AD-83BC-2B5D26208FA4}|PresentationGUI\\PresentationGUI.csproj|solutionrelative:presentationgui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EFB17D-4DD1-CC30-058C-B4E1B5874C69}|IPrintable\\IPrintable.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\readingmaterialapp\\iprintable\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EFB17D-4DD1-CC30-058C-B4E1B5874C69}|IPrintable\\IPrintable.csproj|solutionrelative:iprintable\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EFB17D-4DD1-CC30-058C-B4E1B5874C69}|IPrintable\\IPrintable.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\readingmaterialapp\\iprintable\\iprintable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53EFB17D-4DD1-CC30-058C-B4E1B5874C69}|IPrintable\\IPrintable.csproj|solutionrelative:iprintable\\iprintable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BDA084-8E0D-2B24-4756-DBF69A0B0861}|Magazine\\Magazine.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\readingmaterialapp\\magazine\\magazine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13BDA084-8E0D-2B24-4756-DBF69A0B0861}|Magazine\\Magazine.csproj|solutionrelative:magazine\\magazine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E7F187-98F8-DC3D-54DC-AB79A6C4CEF1}|Online\\Online.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\readingmaterialapp\\online\\online.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E7F187-98F8-DC3D-54DC-AB79A6C4CEF1}|Online\\Online.csproj|solutionrelative:online\\online.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E7F187-98F8-DC3D-54DC-AB79A6C4CEF1}|Online\\Online.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\readingmaterialapp\\online\\online.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49E7F187-98F8-DC3D-54DC-AB79A6C4CEF1}|Online\\Online.csproj|solutionrelative:online\\online.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PresentationGUI.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\PresentationGUI\\PresentationGUI.cs",
+              "RelativeDocumentMoniker": "PresentationGUI\\PresentationGUI.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\PresentationGUI\\PresentationGUI.cs",
+              "RelativeToolTip": "PresentationGUI\\PresentationGUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:15:11.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PresentationGUI",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\PresentationGUI\\PresentationGUI.csproj",
+              "RelativeDocumentMoniker": "PresentationGUI\\PresentationGUI.csproj",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\PresentationGUI\\PresentationGUI.csproj",
+              "RelativeToolTip": "PresentationGUI\\PresentationGUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T16:14:59.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\PresentationGUI\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationGUI\\Program.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\PresentationGUI\\Program.cs",
+              "RelativeToolTip": "PresentationGUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:14:35.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadingMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\ReadingMaterial\\ReadingMaterial.cs",
+              "RelativeDocumentMoniker": "ReadingMaterial\\ReadingMaterial.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\ReadingMaterial\\ReadingMaterial.cs",
+              "RelativeToolTip": "ReadingMaterial\\ReadingMaterial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:12:23.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\IPrintable\\IPrintable.cs",
+              "RelativeDocumentMoniker": "IPrintable\\IPrintable.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\IPrintable\\IPrintable.cs",
+              "RelativeToolTip": "IPrintable\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:11:05.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\Magazine\\Magazine.cs",
+              "RelativeDocumentMoniker": "Magazine\\Magazine.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\Magazine\\Magazine.cs",
+              "RelativeToolTip": "Magazine\\Magazine.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:09:49.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PresentationGUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\PresentationGUI\\PresentationGUI.cs",
+              "RelativeDocumentMoniker": "PresentationGUI\\PresentationGUI.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\PresentationGUI\\PresentationGUI.cs [Design]",
+              "RelativeToolTip": "PresentationGUI\\PresentationGUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T17:07:34.441Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Magazine",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\Magazine\\Magazine.csproj",
+              "RelativeDocumentMoniker": "Magazine\\Magazine.csproj",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\Magazine\\Magazine.csproj",
+              "RelativeToolTip": "Magazine\\Magazine.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T16:09:45.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Online.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\Online\\Online.cs",
+              "RelativeDocumentMoniker": "Online\\Online.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\Online\\Online.cs",
+              "RelativeToolTip": "Online\\Online.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:08:42.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Online",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\Online\\Online.csproj",
+              "RelativeDocumentMoniker": "Online\\Online.csproj",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\Online\\Online.csproj",
+              "RelativeToolTip": "Online\\Online.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T16:08:39.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPrintable.csproj",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\IPrintable\\IPrintable.csproj",
+              "RelativeDocumentMoniker": "IPrintable\\IPrintable.csproj",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\ReadingMaterialApp\\IPrintable\\IPrintable.csproj",
+              "RelativeToolTip": "IPrintable\\IPrintable.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T16:54:57.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

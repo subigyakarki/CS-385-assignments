@@ -1,0 +1,11 @@
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\Housing\bin\Debug\net8.0\Housing.deps.json
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\Housing\bin\Debug\net8.0\Housing.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\Housing\bin\Debug\net8.0\Housing.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\Housing\obj\Debug\net8.0\Housing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\Housing\obj\Debug\net8.0\Housing.AssemblyInfoInputs.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\Housing\obj\Debug\net8.0\Housing.AssemblyInfo.cs
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\Housing\obj\Debug\net8.0\Housing.csproj.CoreCompileInputs.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\Housing\obj\Debug\net8.0\Housing.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\Housing\obj\Debug\net8.0\refint\Housing.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\Housing\obj\Debug\net8.0\Housing.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\Housing\obj\Debug\net8.0\ref\Housing.dll

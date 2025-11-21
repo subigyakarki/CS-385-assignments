@@ -1,0 +1,17 @@
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\bin\Debug\net8.0\MultiUnits.deps.json
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\bin\Debug\net8.0\MultiUnits.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\bin\Debug\net8.0\MultiUnits.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\bin\Debug\net8.0\Housing.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\bin\Debug\net8.0\IUnits.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\bin\Debug\net8.0\Housing.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\bin\Debug\net8.0\IUnits.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\obj\Debug\net8.0\MultiUnits.csproj.AssemblyReference.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\obj\Debug\net8.0\MultiUnits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\obj\Debug\net8.0\MultiUnits.AssemblyInfoInputs.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\obj\Debug\net8.0\MultiUnits.AssemblyInfo.cs
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\obj\Debug\net8.0\MultiUnits.csproj.CoreCompileInputs.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\obj\Debug\net8.0\MultiUnits.csproj.Up2Date
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\obj\Debug\net8.0\MultiUnits.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\obj\Debug\net8.0\refint\MultiUnits.dll
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\obj\Debug\net8.0\MultiUnits.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\HousingApplication\MultiUnits\obj\Debug\net8.0\ref\MultiUnits.dll

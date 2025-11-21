@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PresentationGUI/1.0.0": {
+        "dependencies": {
+          "GraduateStudent": "1.0.0",
+          "Student": "1.0.0",
+          "UndergraduateStudent": "1.0.0"
+        },
+        "runtime": {
+          "PresentationGUI.dll": {}
+        }
+      },
+      "GraduateStudent/1.0.0": {
+        "dependencies": {
+          "Student": "1.0.0"
+        },
+        "runtime": {
+          "GraduateStudent.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Student/1.0.0": {
+        "runtime": {
+          "Student.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "UndergraduateStudent/1.0.0": {
+        "dependencies": {
+          "Student": "1.0.0"
+        },
+        "runtime": {
+          "UndergraduateStudent.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PresentationGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraduateStudent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UndergraduateStudent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

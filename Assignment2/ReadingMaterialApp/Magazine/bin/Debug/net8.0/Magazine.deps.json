@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Magazine/1.0.0": {
+        "dependencies": {
+          "IPrintable": "1.0.0",
+          "ReadingMaterial": "1.0.0"
+        },
+        "runtime": {
+          "Magazine.dll": {}
+        }
+      },
+      "IPrintable/1.0.0": {
+        "runtime": {
+          "IPrintable.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ReadingMaterial/1.0.0": {
+        "runtime": {
+          "ReadingMaterial.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Magazine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IPrintable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReadingMaterial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

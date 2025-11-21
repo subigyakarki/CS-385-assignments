@@ -1,0 +1,106 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PresentationGUI/1.0.0": {
+        "dependencies": {
+          "Book": "1.0.0",
+          "IPrintable": "1.0.0",
+          "Magazine": "1.0.0",
+          "Online": "1.0.0",
+          "ReadingMaterial": "1.0.0"
+        },
+        "runtime": {
+          "PresentationGUI.dll": {}
+        }
+      },
+      "Book/1.0.0": {
+        "dependencies": {
+          "IPrintable": "1.0.0",
+          "ReadingMaterial": "1.0.0"
+        },
+        "runtime": {
+          "Book.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "IPrintable/1.0.0": {
+        "runtime": {
+          "IPrintable.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Magazine/1.0.0": {
+        "dependencies": {
+          "IPrintable": "1.0.0",
+          "ReadingMaterial": "1.0.0"
+        },
+        "runtime": {
+          "Magazine.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Online/1.0.0": {
+        "dependencies": {
+          "ReadingMaterial": "1.0.0"
+        },
+        "runtime": {
+          "Online.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ReadingMaterial/1.0.0": {
+        "runtime": {
+          "ReadingMaterial.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PresentationGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Book/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IPrintable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Magazine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Online/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReadingMaterial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

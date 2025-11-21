@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{651CB7C7-5E07-4892-9CC8-BDEB8D1A391A}|PresentationGUI\\PresentationGUI.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\assignment2\\studentinformationapp\\presentationgui\\presentationgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{651CB7C7-5E07-4892-9CC8-BDEB8D1A391A}|PresentationGUI\\PresentationGUI.csproj|solutionrelative:presentationgui\\presentationgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651CB7C7-5E07-4892-9CC8-BDEB8D1A391A}|PresentationGUI\\PresentationGUI.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\assignment2\\studentinformationapp\\presentationgui\\presentationgui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651CB7C7-5E07-4892-9CC8-BDEB8D1A391A}|PresentationGUI\\PresentationGUI.csproj|solutionrelative:presentationgui\\presentationgui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651CB7C7-5E07-4892-9CC8-BDEB8D1A391A}|PresentationGUI\\PresentationGUI.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\assignment2\\studentinformationapp\\presentationgui\\presentationgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651CB7C7-5E07-4892-9CC8-BDEB8D1A391A}|PresentationGUI\\PresentationGUI.csproj|solutionrelative:presentationgui\\presentationgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB444AD-EFBB-4E4B-AF53-B9722DB0EE0D}|GraduateStudent\\GraduateStudent.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\assignment2\\studentinformationapp\\graduatestudent\\graduate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB444AD-EFBB-4E4B-AF53-B9722DB0EE0D}|GraduateStudent\\GraduateStudent.csproj|solutionrelative:graduatestudent\\graduate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A9661B-6A71-46BE-A0CC-36790EDE13FE}|UndergraduateStudent\\UndergraduateStudent.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\assignment2\\studentinformationapp\\undergraduatestudent\\undergraduate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A9661B-6A71-46BE-A0CC-36790EDE13FE}|UndergraduateStudent\\UndergraduateStudent.csproj|solutionrelative:undergraduatestudent\\undergraduate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E47DCE-F8A6-466E-B075-A961557AA2BD}|Student\\Student.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\assignment2\\studentinformationapp\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E47DCE-F8A6-466E-B075-A961557AA2BD}|Student\\Student.csproj|solutionrelative:student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651CB7C7-5E07-4892-9CC8-BDEB8D1A391A}|PresentationGUI\\PresentationGUI.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\assignment2\\studentinformationapp\\presentationgui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651CB7C7-5E07-4892-9CC8-BDEB8D1A391A}|PresentationGUI\\PresentationGUI.csproj|solutionrelative:presentationgui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB444AD-EFBB-4E4B-AF53-B9722DB0EE0D}|GraduateStudent\\GraduateStudent.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\assignment2\\studentinformationapp\\graduatestudent\\graduatestudent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECB444AD-EFBB-4E4B-AF53-B9722DB0EE0D}|GraduateStudent\\GraduateStudent.csproj|solutionrelative:graduatestudent\\graduatestudent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PresentationGUI.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\PresentationGUI\\PresentationGUI.cs",
+              "RelativeDocumentMoniker": "PresentationGUI\\PresentationGUI.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\PresentationGUI\\PresentationGUI.cs",
+              "RelativeToolTip": "PresentationGUI\\PresentationGUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:42:56.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\PresentationGUI\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationGUI\\Program.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\PresentationGUI\\Program.cs",
+              "RelativeToolTip": "PresentationGUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:52:04.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PresentationGUI.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\PresentationGUI\\PresentationGUI.Designer.cs",
+              "RelativeDocumentMoniker": "PresentationGUI\\PresentationGUI.Designer.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\PresentationGUI\\PresentationGUI.Designer.cs",
+              "RelativeToolTip": "PresentationGUI\\PresentationGUI.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswLUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:42:19.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Undergraduate.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\UndergraduateStudent\\Undergraduate.cs",
+              "RelativeDocumentMoniker": "UndergraduateStudent\\Undergraduate.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\UndergraduateStudent\\Undergraduate.cs",
+              "RelativeToolTip": "UndergraduateStudent\\Undergraduate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:05:31.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\Student\\Student.cs",
+              "RelativeDocumentMoniker": "Student\\Student.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\Student\\Student.cs",
+              "RelativeToolTip": "Student\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:04:45.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Graduate.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\GraduateStudent\\Graduate.cs",
+              "RelativeDocumentMoniker": "GraduateStudent\\Graduate.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\GraduateStudent\\Graduate.cs",
+              "RelativeToolTip": "GraduateStudent\\Graduate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:05:05.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PresentationGUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\PresentationGUI\\PresentationGUI.cs",
+              "RelativeDocumentMoniker": "PresentationGUI\\PresentationGUI.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\PresentationGUI\\PresentationGUI.cs [Design]",
+              "RelativeToolTip": "PresentationGUI\\PresentationGUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:05:52.261Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GraduateStudent.csproj",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\GraduateStudent\\GraduateStudent.csproj",
+              "RelativeDocumentMoniker": "GraduateStudent\\GraduateStudent.csproj",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment2\\StudentInformationApp\\GraduateStudent\\GraduateStudent.csproj",
+              "RelativeToolTip": "GraduateStudent\\GraduateStudent.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T19:06:23.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

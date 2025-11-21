@@ -1,0 +1,170 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "Housing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Housing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Housing.dll": {}
+        }
+      },
+      "IUnits/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/IUnits.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IUnits.dll": {}
+        }
+      },
+      "MultiUnits/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Housing": "1.0.0",
+          "IUnits": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MultiUnits.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MultiUnits.dll": {}
+        }
+      },
+      "SingleFamily/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Housing": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SingleFamily.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SingleFamily.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Housing/1.0.0": {
+      "type": "project",
+      "path": "../Housing/Housing.csproj",
+      "msbuildProject": "../Housing/Housing.csproj"
+    },
+    "IUnits/1.0.0": {
+      "type": "project",
+      "path": "../IUnits/IUnits.csproj",
+      "msbuildProject": "../IUnits/IUnits.csproj"
+    },
+    "MultiUnits/1.0.0": {
+      "type": "project",
+      "path": "../MultiUnits/MultiUnits.csproj",
+      "msbuildProject": "../MultiUnits/MultiUnits.csproj"
+    },
+    "SingleFamily/1.0.0": {
+      "type": "project",
+      "path": "../SingleFamily/SingleFamily.csproj",
+      "msbuildProject": "../SingleFamily/SingleFamily.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "Housing >= 1.0.0",
+      "IUnits >= 1.0.0",
+      "MultiUnits >= 1.0.0",
+      "SingleFamily >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tsmri\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\PresentationGUI\\PresentationGUI.csproj",
+      "projectName": "PresentationGUI",
+      "projectPath": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\PresentationGUI\\PresentationGUI.csproj",
+      "packagesPath": "C:\\Users\\tsmri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\PresentationGUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\tsmri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\Housing\\Housing.csproj": {
+              "projectPath": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\Housing\\Housing.csproj"
+            },
+            "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\IUnits\\IUnits.csproj": {
+              "projectPath": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\IUnits\\IUnits.csproj"
+            },
+            "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\MultiUnits\\MultiUnits.csproj": {
+              "projectPath": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\MultiUnits\\MultiUnits.csproj"
+            },
+            "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\SingleFamily\\SingleFamily.csproj": {
+              "projectPath": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\SingleFamily\\SingleFamily.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

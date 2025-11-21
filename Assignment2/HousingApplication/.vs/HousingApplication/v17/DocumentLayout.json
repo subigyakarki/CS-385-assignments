@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B0BE95-E02F-4A5C-ADD8-E1D661135734}|PresentationGUI\\PresentationGUI.csproj|C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\presentationgui\\presentationgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B0BE95-E02F-4A5C-ADD8-E1D661135734}|PresentationGUI\\PresentationGUI.csproj|solutionrelative:presentationgui\\presentationgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A05A195-C6A7-4994-AEB5-DDA07D2D2AF0}|MultiUnits\\MultiUnits.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\housingapplication\\multiunits\\multiunits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A05A195-C6A7-4994-AEB5-DDA07D2D2AF0}|MultiUnits\\MultiUnits.csproj|solutionrelative:multiunits\\multiunits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B0BE95-E02F-4A5C-ADD8-E1D661135734}|PresentationGUI\\PresentationGUI.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\housingapplication\\presentationgui\\presentationgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B0BE95-E02F-4A5C-ADD8-E1D661135734}|PresentationGUI\\PresentationGUI.csproj|solutionrelative:presentationgui\\presentationgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAC7AB0-9BAB-4222-AA6C-75EF7F5DDB46}|Housing\\Housing.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\housingapplication\\housing\\housing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EAC7AB0-9BAB-4222-AA6C-75EF7F5DDB46}|Housing\\Housing.csproj|solutionrelative:housing\\housing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B0BE95-E02F-4A5C-ADD8-E1D661135734}|PresentationGUI\\PresentationGUI.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\housingapplication\\presentationgui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B0BE95-E02F-4A5C-ADD8-E1D661135734}|PresentationGUI\\PresentationGUI.csproj|solutionrelative:presentationgui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PresentationGUI.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\PresentationGUI\\PresentationGUI.cs",
+              "RelativeDocumentMoniker": "PresentationGUI\\PresentationGUI.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\PresentationGUI\\PresentationGUI.cs",
+              "RelativeToolTip": "PresentationGUI\\PresentationGUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:58:18.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\PresentationGUI\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationGUI\\Program.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\PresentationGUI\\Program.cs",
+              "RelativeToolTip": "PresentationGUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T03:22:55.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Housing.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\Housing\\Housing.cs",
+              "RelativeDocumentMoniker": "Housing\\Housing.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\Housing\\Housing.cs",
+              "RelativeToolTip": "Housing\\Housing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:25:04.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiUnits.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\MultiUnits\\MultiUnits.cs",
+              "RelativeDocumentMoniker": "MultiUnits\\MultiUnits.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\MultiUnits\\MultiUnits.cs",
+              "RelativeToolTip": "MultiUnits\\MultiUnits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:26:59.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PresentationGUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\PresentationGUI\\PresentationGUI.cs",
+              "RelativeDocumentMoniker": "PresentationGUI\\PresentationGUI.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\HousingApplication\\PresentationGUI\\PresentationGUI.cs [Design]",
+              "RelativeToolTip": "PresentationGUI\\PresentationGUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:27:39.727Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

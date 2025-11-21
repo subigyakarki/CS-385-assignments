@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment1\\PizzaCompanyDeliveryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5003156A-5020-43AD-8E08-19C8BB54A260}|PizzaCompanyDeliveryApp.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\assignment1\\pizzacompanydeliveryapp\\pizzacompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5003156A-5020-43AD-8E08-19C8BB54A260}|PizzaCompanyDeliveryApp.csproj|solutionrelative:pizzacompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5003156A-5020-43AD-8E08-19C8BB54A260}|PizzaCompanyDeliveryApp.csproj|C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment1\\PizzaCompanyDeliveryApp\\PizzaCompany.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5003156A-5020-43AD-8E08-19C8BB54A260}|PizzaCompanyDeliveryApp.csproj|solutionrelative:PizzaCompany.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5003156A-5020-43AD-8E08-19C8BB54A260}|PizzaCompanyDeliveryApp.csproj|C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment1\\PizzaCompanyDeliveryApp\\pizzacompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5003156A-5020-43AD-8E08-19C8BB54A260}|PizzaCompanyDeliveryApp.csproj|solutionrelative:pizzacompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzaCompany.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment1\\PizzaCompanyDeliveryApp\\PizzaCompany.cs",
+              "RelativeDocumentMoniker": "PizzaCompany.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment1\\PizzaCompanyDeliveryApp\\PizzaCompany.cs",
+              "RelativeToolTip": "PizzaCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:53:56.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaCompany.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment1\\PizzaCompanyDeliveryApp\\PizzaCompany.Designer.cs",
+              "RelativeDocumentMoniker": "PizzaCompany.Designer.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment1\\PizzaCompanyDeliveryApp\\PizzaCompany.Designer.cs",
+              "RelativeToolTip": "PizzaCompany.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4DAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:36:21.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaCompany.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\Assignment1\\PizzaCompanyDeliveryApp\\PizzaCompany.cs",
+              "RelativeDocumentMoniker": "PizzaCompany.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\PizzaCompanyDeliveryApp\\PizzaCompany.cs [Design]",
+              "RelativeToolTip": "..\\..\\PizzaCompanyDeliveryApp\\PizzaCompany.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T23:05:06.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

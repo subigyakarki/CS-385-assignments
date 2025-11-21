@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\InspirationalMessageApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9905CF-6767-4FFD-978F-16B5680EC0A0}|InspirationalMessageApp.csproj|C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\InspirationalMessageApp\\InspirationalMessageApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9905CF-6767-4FFD-978F-16B5680EC0A0}|InspirationalMessageApp.csproj|solutionrelative:InspirationalMessageApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9905CF-6767-4FFD-978F-16B5680EC0A0}|InspirationalMessageApp.csproj|C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\InspirationalMessageApp\\InspirationalMessageApp.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9905CF-6767-4FFD-978F-16B5680EC0A0}|InspirationalMessageApp.csproj|solutionrelative:InspirationalMessageApp.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9905CF-6767-4FFD-978F-16B5680EC0A0}|InspirationalMessageApp.csproj|c:\\users\\tsmri\\onedrive\\documents\\desktop\\subi\\inspirationalmessageapp\\inspirationalmessageapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A9905CF-6767-4FFD-978F-16B5680EC0A0}|InspirationalMessageApp.csproj|solutionrelative:inspirationalmessageapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9905CF-6767-4FFD-978F-16B5680EC0A0}|InspirationalMessageApp.csproj|C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\InspirationalMessageApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9905CF-6767-4FFD-978F-16B5680EC0A0}|InspirationalMessageApp.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InspirationalMessageApp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\InspirationalMessageApp\\InspirationalMessageApp.Designer.cs",
+              "RelativeDocumentMoniker": "InspirationalMessageApp.Designer.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\InspirationalMessageApp\\InspirationalMessageApp.Designer.cs",
+              "RelativeToolTip": "InspirationalMessageApp.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T23:31:26.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\InspirationalMessageApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\InspirationalMessageApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:58:34.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InspirationalMessageApp.cs",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\InspirationalMessageApp\\InspirationalMessageApp.cs",
+              "RelativeDocumentMoniker": "InspirationalMessageApp.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\InspirationalMessageApp\\InspirationalMessageApp.cs",
+              "RelativeToolTip": "InspirationalMessageApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:54:21.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InspirationalMessageApp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\InspirationalMessageApp\\InspirationalMessageApp.cs",
+              "RelativeDocumentMoniker": "InspirationalMessageApp.cs",
+              "ToolTip": "C:\\Users\\tsmri\\OneDrive\\Documents\\Desktop\\Subi\\InspirationalMessageApp\\InspirationalMessageApp.cs [Design]",
+              "RelativeToolTip": "InspirationalMessageApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:48:57.67Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

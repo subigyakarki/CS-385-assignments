@@ -1,0 +1,11 @@
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\InspirationalMessageApp\bin\Debug\InspirationalMessageApp.exe.config
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\InspirationalMessageApp\bin\Debug\InspirationalMessageApp.exe
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\InspirationalMessageApp\bin\Debug\InspirationalMessageApp.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\InspirationalMessageApp\obj\Debug\InspirationalMessageApp.csproj.AssemblyReference.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\InspirationalMessageApp\obj\Debug\InspirationalMessageApp.Properties.Resources.resources
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\InspirationalMessageApp\obj\Debug\InspirationalMessageApp.csproj.GenerateResource.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\InspirationalMessageApp\obj\Debug\InspirationalMessageApp.csproj.CoreCompileInputs.cache
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\InspirationalMessageApp\obj\Debug\InspirationalMessageApp.exe
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\InspirationalMessageApp\obj\Debug\InspirationalMessageApp.pdb
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\InspirationalMessageApp\obj\Debug\InspirationalMessageApp.exe.config
+C:\Users\tsmri\OneDrive\Documents\Desktop\Subi\InspirationalMessageApp\obj\Debug\InspirationalMessageApp.InspirationalMessageApp.resources
